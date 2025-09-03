@@ -104,5 +104,5 @@ int main() {
     }
 
     printf("Calculator exited.\n");
-    return 0;
+    return 0;  //end of the code
 }
